@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">Hi 👋! My name is Lev1 and I'm a Front-end estudant, from São Paulo </h1>
 
 ###
 
