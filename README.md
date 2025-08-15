@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-<img align="right" height="160" src="https://avatars.githubusercontent.com/u/215243885?v=4"  />
+<img align="center" height="160" src="https://avatars.githubusercontent.com/u/215243885?v=4"  />
 
 
 ###
