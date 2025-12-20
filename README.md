@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Lev1 and I'm a Front-end estudant</h1>
+<h1 align="center">Hi 👋! My name is Lev1 </h1>
 
 ###
 
